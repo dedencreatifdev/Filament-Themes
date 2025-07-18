@@ -20,6 +20,13 @@
     <link rel="stylesheet" href="{{ asset('style/dist/css/adminlte.min.css') }}">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+
+    <!-- jQuery -->
+    <script src="{{ asset('style/plugins/jquery/jquery.min.js') }}"></script>
+    <!-- Bootstrap 4 -->
+    <script src="{{ asset('style/plugins/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+    <!-- AdminLTE App -->
+    <script src="{{ asset('style/dist/js/adminlte.min.js') }}"></script>
 </head>
 
 <body class="hold-transition text-sm light-mode sidebar-mini layout-fixed layout-navbar-fixed layout-footer-fixed">
@@ -31,12 +38,7 @@
 
     <!-- REQUIRED SCRIPTS -->
 
-    <!-- jQuery -->
-    <script src="{{ asset('style/plugins/jquery/jquery.min.js') }}"></script>
-    <!-- Bootstrap 4 -->
-    <script src="{{ asset('style/plugins/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
-    <!-- AdminLTE App -->
-    <script src="{{ asset('style/dist/js/adminlte.min.js') }}"></script>
+
 </body>
 
 </html>
