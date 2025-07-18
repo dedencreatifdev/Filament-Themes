@@ -18,6 +18,8 @@
     <link rel="stylesheet" href="{{ asset('style/plugins/fontawesome-free/css/all.min.css') }}">
     <!-- Theme style -->
     <link rel="stylesheet" href="{{ asset('style/dist/css/adminlte.min.css') }}">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
 </head>
 
 <body class="hold-transition text-sm light-mode sidebar-mini layout-fixed layout-navbar-fixed layout-footer-fixed">

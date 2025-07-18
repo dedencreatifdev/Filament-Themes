@@ -22,7 +22,7 @@
             'fi-active' => $active,
         ])
     }}
->
+> 
     @if ($label)
         <div
             @if ($collapsible)
